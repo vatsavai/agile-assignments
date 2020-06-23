@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9bc7336-9827-4e72-910b-13d38d465de9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment1/src/helloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9bc7336-9827-4e72-910b-13d38d465de9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592923796236</updated>
       <workItem from="1592923798765" duration="57000" />
-      <workItem from="1592923937282" duration="1734000" />
+      <workItem from="1592923937282" duration="1966000" />
     </task>
     <servers />
   </component>
