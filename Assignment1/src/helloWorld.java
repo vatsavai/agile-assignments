@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  *  Name: Sri Vatsavai
  *  Date: 06/23/2020
